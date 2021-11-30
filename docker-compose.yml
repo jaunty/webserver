@@ -20,3 +20,7 @@ volumes:
     external: true
   caddy_config:
     external: true
+
+networks:
+  jaunty:
+    external: true
